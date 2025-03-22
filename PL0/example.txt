@@ -1,0 +1,12 @@
+const  a=10;
+var b,c;
+procedure p;
+    begin
+        c:=b+a
+    end;
+begin
+
+学号 ： 202913499179
+姓名 ： my_name
+end.
+姓名 ： my_name
